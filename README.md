@@ -1,7 +1,7 @@
 # ShopKart
 This ShopKart is Just small project using HTML, CSS and JavaScript. its shows you like clothes items..
 
-# Show some like and star the repo to support the project.
+# Show some like❤️ and star⭐ the repo to support the project.
 
 # Note
 This repository is still under development and I will continue to add more features to it.
